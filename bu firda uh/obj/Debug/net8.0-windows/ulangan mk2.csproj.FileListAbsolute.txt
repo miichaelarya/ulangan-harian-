@@ -1,0 +1,18 @@
+C:\Users\LENOVO\source\repos\ulangan mk2\bin\Debug\net8.0-windows\ulangan mk2.exe
+C:\Users\LENOVO\source\repos\ulangan mk2\bin\Debug\net8.0-windows\ulangan mk2.deps.json
+C:\Users\LENOVO\source\repos\ulangan mk2\bin\Debug\net8.0-windows\ulangan mk2.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ulangan mk2\bin\Debug\net8.0-windows\ulangan mk2.dll
+C:\Users\LENOVO\source\repos\ulangan mk2\bin\Debug\net8.0-windows\ulangan mk2.pdb
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\ulangan_mk2.Form1.resources
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\ulangan mk2.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\ulangan mk2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\ulangan mk2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\ulangan mk2.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\ulangan mk2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\ulangan mk2.dll
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\refint\ulangan mk2.dll
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\ulangan mk2.pdb
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\ulangan mk2.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\ref\ulangan mk2.dll
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\ulangan_mk2.Form2.resources
+C:\Users\LENOVO\source\repos\ulangan mk2\obj\Debug\net8.0-windows\ulangan_mk2.Properties.Resources.resources
